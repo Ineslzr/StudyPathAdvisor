@@ -1,0 +1,4552 @@
+[
+    {
+        "Major": "Accounting",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 87
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 33
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Aerospace Engineering",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 62
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 29
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Oregon",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Anthropology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 58
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 39
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Archaeology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 60
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 29
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de South Carolina",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Architecture",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 70
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 34
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 33
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Art History",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 66
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 30
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 4
+            }
+        ]
+    },
+    {
+        "Major": "Art Therapy",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 74
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 37
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Biochemistry",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 62
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 44
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Biology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 55
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 31
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 27
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Biomedical Engineering",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 70
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 32
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Colorado",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Botany",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 59
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 31
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Colorado",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Business Administration",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 66
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 47
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 29
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 27
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Louisiana",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 7
+            }
+        ]
+    },
+    {
+        "Major": "Chemical Engineering",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 63
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 43
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Civil Engineering",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 64
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Classics",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 58
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 33
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 27
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Minnesota",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Communication",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 50
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 42
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            }
+        ]
+    },
+    {
+        "Major": "Computer Engineering",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 60
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 38
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Computer Science",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 64
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 51
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Criminology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 62
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 36
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 28
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Culinary Arts",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 67
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 36
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Missouri",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Dance",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 54
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 30
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Tennessee",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Dentistry",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 64
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 39
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 7
+            }
+        ]
+    },
+    {
+        "Major": "Drama",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 65
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 45
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Wisconsin",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Early Childhood Education",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 67
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Tennessee",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Missouri",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Earth Science",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 60
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 37
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Colorado",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Ecology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 56
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 46
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 29
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Tennessee",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Economics",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 55
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 29
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Electrical Engineering",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 57
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 46
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Elementary Education",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 62
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 35
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "English Literature",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 67
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 37
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Missouri",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Environmental Science",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 62
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 39
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Minnesota",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Fashion Design",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 50
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 49
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 29
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 28
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de South Carolina",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Film Studies",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 57
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 27
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Louisiana",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Newfoundland and Labrador",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Forensic Science",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 70
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 39
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Kentucky",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Geography",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 54
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 28
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 7
+            }
+        ]
+    },
+    {
+        "Major": "Geology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 65
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 39
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de South Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Kentucky",
+                "NombreEtudiants": 4
+            }
+        ]
+    },
+    {
+        "Major": "Graphic Communication",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 59
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Missouri",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Graphic Design",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 77
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 31
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Wisconsin",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Minnesota",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Louisiana",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Health Science",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 57
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 44
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Wisconsin",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Colorado",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "History",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 68
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 34
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de South Carolina",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Hospitality Management",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 69
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Industrial Design",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 69
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 43
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 27
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Colorado",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Information Systems",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 64
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 35
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Arkansas",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Kentucky",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Interior Design",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 65
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "International Relations",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 51
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 28
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Journalism",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 76
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 39
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Kinesiology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 64
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Colorado",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Linguistics",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 64
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 50
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Management",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 64
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 27
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Marine Biology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 67
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 41
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 20
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Marketing",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 56
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 34
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Mathematics",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 61
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 42
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Mechanical Engineering",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 68
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 38
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 34
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Meteorology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 72
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 36
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Wisconsin",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Microbiology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 57
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 39
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Connecticut",
+                "NombreEtudiants": 4
+            }
+        ]
+    },
+    {
+        "Major": "Molecular Biology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 60
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Colorado",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Music",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 58
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 46
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Louisiana",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Colorado",
+                "NombreEtudiants": 4
+            },
+            {
+                "Université": "Université de Kentucky",
+                "NombreEtudiants": 4
+            }
+        ]
+    },
+    {
+        "Major": "Neuroscience",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 73
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 34
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 26
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Washington",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Arkansas",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Nuclear Engineering",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 76
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 40
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Oklahoma",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Oregon",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Nursing",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 44
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 28
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Missouri",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Nutrition Science",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 65
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 34
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 28
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Minnesota",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Missouri",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Connecticut",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Philosophy",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 55
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 45
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 24
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Brunswick",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Wisconsin",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Physics",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 72
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 53
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Arizona",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Wisconsin",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Indiana",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Political Science",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 73
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 43
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 12
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Minnesota",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Connecticut",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Massachusetts",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Missouri",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Psychology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 47
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 38
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Maryland",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Public Health",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 62
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 46
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 23
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Virginia",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Georgia",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Social Work",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 64
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 39
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 22
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de Louisiana",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 5
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Sociology",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 72
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 33
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 28
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 14
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 11
+            },
+            {
+                "Université": "Université de Nova Scotia",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Kentucky",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 6
+            }
+        ]
+    },
+    {
+        "Major": "Theater",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 66
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 46
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 19
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 18
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 16
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 10
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Manitoba",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Alabama",
+                "NombreEtudiants": 5
+            }
+        ]
+    },
+    {
+        "Major": "Veterinary Science",
+        "Universités": [
+            {
+                "Université": "Université de Ontario",
+                "NombreEtudiants": 81
+            },
+            {
+                "Université": "Université de Quebec",
+                "NombreEtudiants": 32
+            },
+            {
+                "Université": "Université de California",
+                "NombreEtudiants": 25
+            },
+            {
+                "Université": "Université de British Columbia",
+                "NombreEtudiants": 21
+            },
+            {
+                "Université": "Université de Alberta",
+                "NombreEtudiants": 17
+            },
+            {
+                "Université": "Université de New York",
+                "NombreEtudiants": 15
+            },
+            {
+                "Université": "Université de Florida",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Ohio",
+                "NombreEtudiants": 13
+            },
+            {
+                "Université": "Université de Pennsylvania",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Texas",
+                "NombreEtudiants": 9
+            },
+            {
+                "Université": "Université de Michigan",
+                "NombreEtudiants": 8
+            },
+            {
+                "Université": "Université de Illinois",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de North Carolina",
+                "NombreEtudiants": 7
+            },
+            {
+                "Université": "Université de New Jersey",
+                "NombreEtudiants": 6
+            },
+            {
+                "Université": "Université de Saskatchewan",
+                "NombreEtudiants": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+<div class="container my-4">
+  <div class="row mb-4">
+    <app-student-map></app-student-map>
+  </div>
+  <div class="row mb-4">
+    Le présent cahier des charges décrit les spécifications et les fonctionnalités requises pour la conception et le développement d'un site web visant à fournir une assistance aux étudiants dans leur choix d'une université. Le site web sera composé de deux modules principaux : un module d'analyse de données et un module de prédiction.
+    <br>
+    On cherche à accompagner un étudiant sortant du lycée lors de son choix d’université et de formation en lui permettant d'avoir un aperçu des statistiques sur les étudiants des universités aux Etats-Unis et au Canada. 
+    La partie analyse des données et statistiques, permettra à l'étudiant de s’informer sur les différentes formations proposées par les universités en fonction du genre des étudiants et en fonction des notes (GPA). Cela va permettre à un étudiant de visualiser le taux de réussite par formation et université.
+  
+    On cherche à voir si certaines formations sont plus populaires pour un genre(hommes/femmes). Pour finir, l'étudiant pourra vérifier le taux d'abandon déduit de la variation du nombre d'étudiant chaque année.
+  
+    La partie machine Learning permet aux étudiants de prédire la formation qui leur correspond le mieux en fonction de leurs hobbies et de leurs histoires. 
+   exploiter la variable year pour déterminer l'abandon ou pas des étudiants 
+  </div>
+
+
+  <h1 class="text-center my-4">Analyse par étudiants</h1>
+
+  <div class="row mb-4">
+    <div class="col">
+      <app-graphique [chartType]="'modified'" [pagination]=true></app-graphique>
+    </div>
+    <div class="col">
+      Le graphique illustre le nombre d'étudiants total inscrits dans différentes universités. Cette visualisation permet d'identifier les universités les plus populaires, en termes de nombre d'étudiants inscrits et de permettre aux étudiants d’avoir une vision globale sur la bonne ou mauvaise réputation des universités ce qui peut être un facteur important dans leurs choix de cursus universitaire.
+      Cette variation considérable du nombre d’étudiants d’une université à une autre incite à s'interroger sur les facteurs influençant la popularité de ces établissements. Afin de mieux comprendre ces facteurs, des études plus détaillées seront présentées
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col">
+      Le graphique en question représente la répartition des étudiants inscrits dans divers programmes académiques offerts par différentes universités. Cette représentation graphique sert à déterminer quels sont les programmes les plus attractifs en termes d'effectifs étudiants par université, offrant ainsi une perspective sur la renommée de chaque formation. 
+Les étudiants peuvent se servir de cette information pour juger de la notoriété d'un programme spécifique au sein des universités sélectionnées, ce qui peut s'avérer déterminant dans le choix de leur parcours éducatif. La popularité globale d'une université ne garantit pas forcément le succès de toutes ses filières. Inversement, une formation peut s'avérer être très convoitée même au sein d'une université moins célèbre.
+    </div>
+    <div class="col">
+      <app-pie-graphique></app-pie-graphique>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col">
+      <app-graphique [chartType]="'grouped'" [pagination]=true></app-graphique>
+    </div>
+    <div class="col">
+      Notre étude graphique met en lumière les tendances de répartition des étudiants par sexe dans diverses spécialisations universitaires. On constate que les spécialisations scientifiques et techniques, comme l'Informatique et l'Ingénierie, sont majoritairement choisies par les étudiants masculins. Par contraste, les domaines des Sciences Humaines et Sociales, y compris la Psychologie et les Langues, sont davantage privilégiés par les étudiants. Cette répartition peut suggérer l'existence de stéréotypes de genre ancrés ou de barrières qui influencent les orientations professionnelles.
+      <br>
+      L'inégalité de la répartition des sexes dans certaines spécialisations pose la question de l'équité et de l'accessibilité. Des mesures incitatives pourraient être mises en place pour favoriser une participation accrue des femmes dans les domaines STEM ( Sciences, Technologie, Ingénierie, Mathématiques ) et encourager les hommes à s'orienter vers les Sciences Humaines et Sociales.
+    </div>
+  </div>
+
+
+  <h1 class="text-center my-4">Analyse par GPA</h1>
+
+  <div class="row mb-4">
+    <div class="col">
+      <app-graphique [chartType]="'grade_stats'" [pagination]=true></app-graphique>
+    </div>
+    <div class="col">
+      <app-graphique [chartType]="'major_uni_grades'" [pagination]=false></app-graphique>
+    </div>
+  </div>
+
+  <div class="row mb-4">
+    <div class="col">
+      Le graphique vise à fournir une comparaison des performances des étudiants dans différentes universités, permettant ainsi aux utilisateurs de déterminer les établissements les plus prestigieux en fonction des résultats des étudiants dans toutes les formations. 
+      Ce graphique peut être utilisé par les étudiants qui envisagent de choisir entre deux universités offrant la même formation. En examinant les performances des étudiants dans chaque université, ils peuvent déterminer celle qui est plus renommée en raison de ses excellents résultats.
+      On peut remarquer que parmi les résultats les plus élevés, on trouve l’université Prince Edward Island avec un GPA de 4.27. Par contre, on retrouve le GPA le plus faible proche de 2 dans l’université District of Columbia.
+    En résumé, ce graphique fournit une vue d'ensemble des performances des étudiants par université, ce qui peut être utile pour les étudiants dans leur processus de décision d'inscription universitaire et pour leur future carrière professionnelle.
+
+    </div>
+    <div class="col">
+      Ce graphique se concentre sur les résultats des étudiants par formation, offrant ainsi une vue plus détaillée et spécifique des performances académiques.
+      Ce graphique permet aux utilisateurs de mieux comprendre la moyenne des notes en fonction des formations proposées par les différentes universités. Il offre ainsi une vision plus ciblée et approfondie des performances des étudiants dans des domaines spécifiques.
+      Le graphique permet également de formuler des hypothèses sur le cadre des cours et la rigueur académique dans différentes universités. Par exemple, si les statistiques montrent que les notes pour une formation spécifique sont plus élevées dans une université par rapport à une autre, cela pourrait indiquer soit une plus grande réussite des étudiants dans cette université, soit une notation plus stricte dans l'autre université.
+      Les variations des résultats entre les universités pour une même formation peuvent également suggérer des différences dans la qualité de l'enseignement, la rigueur académique, ou même la sélectivité du programme.    
+      En résumé, ce graphique offre une vision plus détaillée des performances des étudiants par formation et par université, ce qui peut être précieux pour les étudiants dans leur processus de sélection d'université et pour leur compréhension du paysage académique dans différentes disciplines.
+      
+    </div>
+  </div>
+
+  <h1 class="text-center my-4">Taux d'engagement</h1>
+
+  <div class="row mb-4">
+    <div class="col">
+      <app-graphique [chartType]="'taux'" [pagination]=true></app-graphique>
+    </div>
+    <div class="col">
+      <app-line-graphique></app-line-graphique>
+    </div>
+  </div>
+  <div class="row mb-4">
+    <div class="col">
+      Le graphique illustre le taux d'abandon(-) ou d'engagement (+) des étudiants dans différentes Formations, mesuré en pourcentage. 
+      En supposant un nombre d'inscriptions constant chaque année, ce graphique donne un aperçu de la rétention et de l'attraction des étudiants pour chaque domaine d'étude. Un taux élevé d'engagement indique que le programme devient plus attrayant ou répond bien aux attentes des étudiants au fil de leur parcours universitaire. À l'inverse, un taux d'abandon élevé peut signaler que les étudiants tendent à quitter le programme avant la dernière année.
+      Cette analyse peut aider les futurs étudiants à comprendre la dynamique de chaque spécialisation et à évaluer la stabilité et l'attrait de différentes voies académiques. L’analyse suivante permet de voir cela plus en profondeur en analysant le nombre d’étudiants pour chaque année universitaire.
+    </div>
+    <div class="col">
+      Ce graphique illustre la variation du nombre d'étudiants dans différents programmes universitaires au fil du parcours académique de la première année (Freshman) à la quatrième année (Sophomore). En utilisant les filtres sur l’université et la formation on peut observer les variations du nombre des étudiants en fonction de chaque année académique.
+      Le graphique révèle donc des informations sur la dynamique des inscriptions et la progression des étudiants à travers les études spécialisées.
+      Le graphique suggère aussi que l'intérêt et la rétention des étudiants varient considérablement à travers les années d'étude. La tendance générale montre que certains programmes connaissent un pic en milieu de parcours avant de voir le nombre d'étudiants diminuer dans les années suivantes. Ces données pourraient refléter une multitude de facteurs, y compris l'intérêt académique, la difficulté des cours, les opportunités de carrière post-diplôme et la satisfaction générale des étudiants.
+
+    </div>
+  </div>

@@ -1,0 +1,8 @@
+<div>
+    <select class="form-select" (change)="onMajorChange($event)">
+      <option *ngFor="let major of majors" [value]="major">{{ major }}</option>
+    </select>   
+    <div>
+      <canvas #pieCanvas class="chart-canvas"></canvas>
+    </div>   
+</div>

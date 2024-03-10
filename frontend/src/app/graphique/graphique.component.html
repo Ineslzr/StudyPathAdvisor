@@ -1,0 +1,27 @@
+<div class="container">
+    <div>
+      <div *ngIf="!pagination">
+        <div class="row">
+          <div class="col-md-4">
+            <select class="form-select" (change)="onUniversityChange($event)">
+              <option *ngFor="let university of universities" [value]="university">{{ university }}</option>
+            </select>
+          </div>
+          <div class="col-md-4">
+            <select class="form-select" (change)="onMajorChange($event)">
+              <option *ngFor="let major of majors" [value]="major">{{ major }}</option>
+            </select>
+          </div>
+          <div class="col-md-4">
+            <button type="button" class="btn btn-light" (click)="onButtonClick()">Go</button>
+          </div>
+        </div>
+      </div>
+      <canvas #graph class="chart-canvas"></canvas>
+      <div *ngIf="pagination" class="d-flex justify-content-between gap-2">
+        <button type="button" class="btn btn-light" (click)="onPreviousPage()"> << </button>
+        <button type="button" class="btn btn-light" (click)="onNextPage()">>></button>
+      </div>    
+    </div>
+</div>
+
