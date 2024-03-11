@@ -1,13 +1,13 @@
-import { Component, AfterViewInit, ViewChild, ElementRef,Input } from '@angular/core';
-import Chart, { ChartType } from 'chart.js/auto';
+import { Component,ViewChild, ElementRef,Input } from '@angular/core';
+import Chart from 'chart.js/auto';
 import { DataService } from '../services/data.service';
 
 @Component({
-  selector: 'app-graphique',
-  templateUrl: './graphique.component.html',
-  styleUrls: ['./graphique.component.scss']
+  selector: 'app-bar-graphique',
+  templateUrl: './bar-graphique.component.html',
+  styleUrls: ['./bar-graphique.component.scss']
 })
-export class GraphiqueComponent {
+export class BarGraphiqueComponent {
   @ViewChild('graph') grouped!: ElementRef<HTMLCanvasElement>;
   @Input() chartType: any = 'grouped';
   @Input() pagination : boolean = true;
@@ -146,6 +146,15 @@ export class GraphiqueComponent {
     return majorData; // Retourne les données min, max et average pour la matière spécifiée
   }
 
+  getRandomColor() {
+    const letters = '0123456789ABCDEF';
+    let color = '#';
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
+
   renderChartUniFormationGrades(universityName: string, majorName: string): void {
     const majorData = this.getMajorDataForUniversity(universityName, majorName);
 
@@ -163,7 +172,7 @@ export class GraphiqueComponent {
     if (this.chartInstance) {
       this.chartInstance.destroy();
     }
-
+    const backgroundColors = Array(3).fill(null).map(() => this.getRandomColor());
     this.chartInstance = new Chart(ctx, {
       type: 'bar',
       data: {
@@ -171,16 +180,8 @@ export class GraphiqueComponent {
         datasets: [{
           label: majorName,
           data: [majorData.min, majorData.max, majorData.moyenne],
-          backgroundColor: [
-            'rgba(255, 99, 132, 0.5)', // Red for Min
-            'rgba(54, 162, 235, 0.5)',  // Blue for Max
-            'rgba(255, 206, 86, 0.5)',  // Yellow for Average
-          ],
-          borderColor: [
-            'rgba(255, 99, 132, 1)',
-            'rgba(54, 162, 235, 1)',
-            'rgba(255, 206, 86, 1)',
-          ],
+          backgroundColor: backgroundColors,
+          borderColor: backgroundColors,
           borderWidth: 1
         }]
       },
@@ -214,7 +215,7 @@ export class GraphiqueComponent {
       console.error('Canvas context is null.');
       return;
     }
-
+    const backgroundColors = Array(1).fill(null).map(() => this.getRandomColor());
     this.chartInstance = new Chart(ctx, {
       type: 'bar',
       data: {
@@ -222,8 +223,8 @@ export class GraphiqueComponent {
         datasets: [{
           label: 'Taux(Abandon\/Engagement) (%)',
           data: taux,
-          backgroundColor: 'rgba(255, 99, 132, 0.5)',
-          borderColor: 'rgba(255, 99, 132, 1)',
+          backgroundColor: backgroundColors,
+          borderColor: backgroundColors,
           borderWidth: 1
         }]
       },
@@ -264,6 +265,8 @@ export class GraphiqueComponent {
       return;
     }
 
+    const backgroundColorF = Array(1).fill(null).map(() => this.getRandomColor());
+    const backgroundColorM = Array(1).fill(null).map(() => this.getRandomColor());
 
     this.chartInstance = new Chart(ctx, {
       type: 'bar',
@@ -273,15 +276,15 @@ export class GraphiqueComponent {
           {
             label: 'Female',
             data: females,
-            backgroundColor: 'rgba(255, 99, 132, 0.5)',
-            borderColor: 'rgba(255, 99, 132, 1)',
+            backgroundColor: backgroundColorF,
+            borderColor: backgroundColorF,
             borderWidth: 1
           },
           {
             label: 'Male',
             data: males,
-            backgroundColor: 'rgba(54, 162, 235, 0.5)',
-            borderColor: 'rgba(54, 162, 235, 1)',
+            backgroundColor: backgroundColorM,
+            borderColor: backgroundColorM,
             borderWidth: 1
           }
         ]
@@ -317,7 +320,7 @@ export class GraphiqueComponent {
         return;
       }
 
-
+      const backgroundColors = Array(1).fill(null).map(() => this.getRandomColor());
       this.chartInstance = new Chart(ctx, {
         type: 'bar',
         data: {
@@ -326,8 +329,8 @@ export class GraphiqueComponent {
             {
               label: 'Nombre d\'étudiants',
               data: studentCounts,
-              backgroundColor: 'rgba(255, 99, 132, 0.5)',
-              borderColor: 'rgba(255, 99, 132, 1)',
+              backgroundColor: backgroundColors,
+              borderColor: backgroundColors,
               borderWidth: 1
             }
           ]
@@ -365,6 +368,7 @@ export class GraphiqueComponent {
       console.error('Canvas context is null.');
       return;
     }
+    const backgroundColors = Array(1).fill(null).map(() => this.getRandomColor());
 
     this.chartInstance = new Chart(ctx, {
       type: 'bar',
@@ -373,8 +377,8 @@ export class GraphiqueComponent {
         datasets: [{
           label: 'Average Grade',
           data: averages,
-          backgroundColor: 'rgba(255, 99, 132, 0.5)',
-          borderColor: 'rgba(255, 99, 132, 1)',
+          backgroundColor: backgroundColors,
+          borderColor: backgroundColors,
           borderWidth: 1
         }]
       },
@@ -431,6 +435,5 @@ export class GraphiqueComponent {
       array.slice(index * size, index * size + size)
     );
   }
-
 
 }
